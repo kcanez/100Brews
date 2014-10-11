@@ -1,0 +1,55 @@
+* {
+	font-family:Arial;
+}
+
+#temp_image {
+	height:250px;
+	width:250px;
+	background-color:#08fbd1;
+	float:left;
+	margin-right:0px;
+	
+}
+
+#temp_image h1 {
+	margin:auto;
+	color:white;
+	padding-top:150px;
+	text-align:center;
+}
+
+#navbar {
+	float:center;
+	/*position:fixed;*/
+	background-color:gray;
+	border:1px solid black;
+}
+
+#navbar ul li {
+	margin:0px;
+	border:1px solid teal;
+	padding:3px;
+	display:inline;
+	border-radius:5px
+	text-align:center;
+}
+
+#content {
+	padding-top:25px;
+	clear:left;
+	position:relative;
+	text-align:center;
+}
+
+#review {
+	position:auto;
+	margin:auto;
+	text-align:left;
+	height:500px;
+	width:500px;
+}
+
+.beer-pic {
+	height:400px;
+	width:250px;
+}

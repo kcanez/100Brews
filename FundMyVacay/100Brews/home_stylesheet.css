@@ -1,0 +1,48 @@
+* {
+	font-family:Arial;
+}
+
+#navbar {
+	float:center;
+	align:center;
+}
+
+#navbar ul li {
+	margin:0px;
+	padding:3px;
+	display:inline;
+	border-radius:5px;
+	text-align:center;
+	align:center;
+}
+
+#main_image {
+	border:1px solid black;
+	height:375px;
+	width:500px;
+}
+
+#main_image h1 {
+	position:relative;
+	float:bottom;
+	bottom:10px;
+}
+
+#main_image p{
+	position:relative;
+}
+
+#indiv_rev_links ul li{
+	float:left;
+	margin:15px;
+	display:inline;
+	align:center;
+	text-align:center;
+}
+
+#bottom_border {
+	border-bottom:1px solid black;
+	clear:both;
+	float:bottom;
+	width:500px
+}
